@@ -1,0 +1,4 @@
+My goals for this activity:
+1. Learn how to create a repository.
+2. Learn how to use Git commands.
+3. Understand commits and pushing changes.

@@ -1,0 +1,3 @@
+This is my first GitHub repository.
+I created this file to practice
+uploading and managing files.
