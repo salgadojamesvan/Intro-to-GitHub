@@ -1,3 +1,2 @@
-This is my first GitHub repository.
-I created this file to practice
-uploading and managing files.
+I have successfully cloned this repository
+and edited this file on my computer .
